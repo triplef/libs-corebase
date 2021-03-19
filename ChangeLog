@@ -1,3 +1,10 @@
+2021-03-19  Frederik Seiffert <frederik@algoriddim.com>
+	* Source/CFRunLoop.c,
+	* Source/GSPrivate.h,
+	* Source/config.h.in,
+	* configure,
+	* configure: Add support for building without pthread library.
+
 2020-03-12  Frederik Seiffert <frederik@algoriddim.com>
 	* Source/CFNumber: Add equality and hash functions.
 
